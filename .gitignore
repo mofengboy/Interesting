@@ -230,7 +230,7 @@ $RECYCLE.BIN/
 *.lnk
 
 # 自定义
-GAN/model/
+GAN/Mnist/model/
 RL/
 
 
