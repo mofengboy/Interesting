@@ -371,5 +371,5 @@ class Brain:
 ![mark](https://external-link.sunan.me/blog/210531/5iJbJaDE5g.gif)
 ### 源代码
 其余代码见GitHub
-> 
+> https://github.com/mofengboy/Interesting
 
