@@ -230,7 +230,8 @@ $RECYCLE.BIN/
 *.lnk
 
 # 自定义
+test.py
 GAN/Mnist/model/
-RL/
+RL/reinforcement_q_learning.py
 
 
